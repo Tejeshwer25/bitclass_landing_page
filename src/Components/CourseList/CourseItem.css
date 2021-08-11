@@ -1,0 +1,70 @@
+.courseItem {
+    width: 95%;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--img {
+    position: relative;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--img > img {
+    width: 100%;
+    max-height: 10rem;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--img > span {
+    position: absolute;
+    margin: 0.5rem;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 600;
+    background-color: #191c21;
+    color: #fff;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--detail {
+    background-color: #070d1d;
+    color: #fff;
+    padding: 9px 20px;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--detail > .courseItem__container--detail__status {
+    background-color: #ef3532;
+    padding: 3px 9px;
+    font-size: 12px;
+    display: inline;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--detail > .courseItem__container--detail__name {
+    padding: 8px 0px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--detail > .courseItem__container--detail__instructor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--detail > .courseItem__container--detail__instructor span {
+    font-weight: 600;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--detail > .courseItem__container--detail__instructor button {
+    border: 1px solid #fff;
+    background-color: #070d1d;
+    color: #fff;
+    border-radius: 5px;
+    padding: 3px 8px;
+}
+
+.courseItem > .courseItem__container > .courseItem__container--detail > .courseItem__container--detail__link {
+    background-color: #fff;
+    padding: 13px;
+    font-size: 1rem;
+    color: #070d1d;
+    border-radius: 5px;
+    font-weight: 500;
+    text-align: center;
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "course_name": "LaTeX",
+    "taught_by": "Jordain Sleet",
+    "cost": "$876.71",
+    "rating": 2.4,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 2,
+    "course_name": "JBA",
+    "taught_by": "Mala Robrow",
+    "cost": "$117.35",
+    "rating": 3.7,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 3,
+    "course_name": "PPO",
+    "taught_by": "Emalee Readmire",
+    "cost": "$776.92",
+    "rating": 2.0,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 4,
+    "course_name": "Managed Services",
+    "taught_by": "Wileen Hartless",
+    "cost": "$572.86",
+    "rating": 0.1,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 5,
+    "course_name": "Supply Chain Management",
+    "taught_by": "Eldin Stapylton",
+    "cost": "$139.17",
+    "rating": 3.6,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 6,
+    "course_name": "Software Quality Assurance",
+    "taught_by": "Zola Frawley",
+    "cost": "$818.27",
+    "rating": 3.3,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 7,
+    "course_name": "GFP",
+    "taught_by": "Kylynn Stedman",
+    "cost": "$638.73",
+    "rating": 3.7,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 8,
+    "course_name": "FMA",
+    "taught_by": "Cross Vayne",
+    "cost": "$46.02",
+    "rating": 1.3,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 9,
+    "course_name": "Process Simulation",
+    "taught_by": "Verney Nisuis",
+    "cost": "$584.62",
+    "rating": 1.8,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 10,
+    "course_name": "Women Owned Business",
+    "taught_by": "Pat Elcoat",
+    "cost": "$465.07",
+    "rating": 4.0,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 11,
+    "course_name": "Hyperion Reports",
+    "taught_by": "Aaron Gare",
+    "cost": "$957.74",
+    "rating": 0.8,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 12,
+    "course_name": "Practice CS",
+    "taught_by": "Marina Popley",
+    "cost": "$385.64",
+    "rating": 3.5,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 13,
+    "course_name": "Operational Excellence",
+    "taught_by": "Holly-anne Cleaveland",
+    "cost": "$563.23",
+    "rating": 0.3,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 14,
+    "course_name": "Site Development",
+    "taught_by": "Artair Bootherstone",
+    "cost": "$989.61",
+    "rating": 0.6,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 15,
+    "course_name": "DOS",
+    "taught_by": "Brooks Hethron",
+    "cost": "$191.41",
+    "rating": 1.9,
+    "live": true,
+    "type": "course"
+  },
+  {
+    "id": 16,
+    "course_name": "Rural Development",
+    "taught_by": "Elinor Bretton",
+    "cost": "$933.83",
+    "rating": 3.3,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 17,
+    "course_name": "SQLite",
+    "taught_by": "Arda Dewis",
+    "cost": "$13.36",
+    "rating": 3.7,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 18,
+    "course_name": "RTSP",
+    "taught_by": "Eyde Castiblanco",
+    "cost": "$503.26",
+    "rating": 1.4,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 19,
+    "course_name": "PTC Creo",
+    "taught_by": "Catharine Bythell",
+    "cost": "$714.58",
+    "rating": 1.3,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 20,
+    "course_name": "ABAP-OO",
+    "taught_by": "Dorella Maruszewski",
+    "cost": "$336.86",
+    "rating": 1.9,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 21,
+    "course_name": "Animal Behavior",
+    "taught_by": "Adelheid McNelis",
+    "cost": "$479.68",
+    "rating": 1.1,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 22,
+    "course_name": "FQHC",
+    "taught_by": "Merissa Nitti",
+    "cost": "$640.03",
+    "rating": 3.9,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 23,
+    "course_name": "DFS",
+    "taught_by": "Sandra Dust",
+    "cost": "$58.60",
+    "rating": 0.1,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 24,
+    "course_name": "JNI",
+    "taught_by": "Donnie Twentyman",
+    "cost": "$928.69",
+    "rating": 2.5,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 25,
+    "course_name": "Account Reconciliation",
+    "taught_by": "Mickey Roach",
+    "cost": "$664.19",
+    "rating": 2.0,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 26,
+    "course_name": "Smart Metering",
+    "taught_by": "Guillema Hinchon",
+    "cost": "$548.38",
+    "rating": 1.9,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 27,
+    "course_name": "Slope Stability Analysis",
+    "taught_by": "Meara Chalder",
+    "cost": "$958.89",
+    "rating": 3.5,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 28,
+    "course_name": "Duty Drawback",
+    "taught_by": "Jody Gopsill",
+    "cost": "$387.00",
+    "rating": 4.1,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 29,
+    "course_name": "MMC",
+    "taught_by": "Vittorio Primak",
+    "cost": "$835.57",
+    "rating": 3.1,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 30,
+    "course_name": "OC RDC",
+    "taught_by": "Aylmar Pfaffe",
+    "cost": "$148.43",
+    "rating": 0.8,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 31,
+    "course_name": "Online Reputation Management",
+    "taught_by": "Viki Grimshaw",
+    "cost": "$14.95",
+    "rating": 1.8,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 32,
+    "course_name": "NLTK",
+    "taught_by": "De Skynner",
+    "cost": "$305.82",
+    "rating": 2.1,
+    "live": true,
+    "type": "course"
+  },
+  {
+    "id": 33,
+    "course_name": "CPT",
+    "taught_by": "Werner Western",
+    "cost": "$274.18",
+    "rating": 0.0,
+    "live": true,
+    "type": "workshop"
+  },
+  {
+    "id": 34,
+    "course_name": "Art History",
+    "taught_by": "Kassi Darrach",
+    "cost": "$781.25",
+    "rating": 4.3,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 35,
+    "course_name": "Start-up Ventures",
+    "taught_by": "Cleve Rignoldes",
+    "cost": "$611.62",
+    "rating": 4.5,
+    "live": true,
+    "type": "course"
+  },
+  {
+    "id": 36,
+    "course_name": "XUL",
+    "taught_by": "Thain Massingberd",
+    "cost": "$93.57",
+    "rating": 1.1,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 37,
+    "course_name": "Vascular",
+    "taught_by": "Gael Sanchez",
+    "cost": "$735.75",
+    "rating": 1.9,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 38,
+    "course_name": "JavaScript",
+    "taught_by": "Hadleigh Padillo",
+    "cost": "$321.01",
+    "rating": 3.1,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 39,
+    "course_name": "Overseas Production",
+    "taught_by": "Aloin Wellen",
+    "cost": "$144.22",
+    "rating": 0.8,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 40,
+    "course_name": "Catalyst Switches",
+    "taught_by": "Priscella Griniov",
+    "cost": "$853.04",
+    "rating": 1.9,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 41,
+    "course_name": "McData",
+    "taught_by": "Blithe Simcox",
+    "cost": "$607.81",
+    "rating": 2.5,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 42,
+    "course_name": "GHS",
+    "taught_by": "Xylina Longworth",
+    "cost": "$837.29",
+    "rating": 0.3,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 43,
+    "course_name": "Helicopters",
+    "taught_by": "Timi Brayn",
+    "cost": "$242.06",
+    "rating": 1.7,
+    "live": true,
+    "type": "course"
+  },
+  {
+    "id": 44,
+    "course_name": "AES",
+    "taught_by": "Giacinta Skeats",
+    "cost": "$280.19",
+    "rating": 1.6,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 45,
+    "course_name": "Beer",
+    "taught_by": "Ario Rizzolo",
+    "cost": "$241.66",
+    "rating": 0.8,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 46,
+    "course_name": "xPression",
+    "taught_by": "Chadwick Darridon",
+    "cost": "$75.22",
+    "rating": 1.4,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 47,
+    "course_name": "Swimming",
+    "taught_by": "Maggee Brook",
+    "cost": "$307.24",
+    "rating": 3.4,
+    "live": false,
+    "type": "course"
+  },
+  {
+    "id": 48,
+    "course_name": "Dysphagia",
+    "taught_by": "Hadria Wellstead",
+    "cost": "$305.43",
+    "rating": 2.3,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 49,
+    "course_name": "Food Quality",
+    "taught_by": "Gradeigh Gerred",
+    "cost": "$848.18",
+    "rating": 0.0,
+    "live": false,
+    "type": "workshop"
+  },
+  {
+    "id": 50,
+    "course_name": "SR&amp;ED",
+    "taught_by": "Stanislaus Tewnion",
+    "cost": "$763.27",
+    "rating": 1.7,
+    "live": false,
+    "type": "course"
+  }
+]

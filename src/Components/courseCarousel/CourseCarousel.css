@@ -1,0 +1,10 @@
+.courseCarousel {
+    margin: 0 auto;
+    margin-top: 2rem;
+    width: 90%;
+}
+
+.courseCarousel img {
+    width: 98%;
+    border-radius: 10px;
+}

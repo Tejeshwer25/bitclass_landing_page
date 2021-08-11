@@ -1,0 +1,25 @@
+.header > .navbar .navbar-brand {
+    font-weight: bolder;
+}
+
+.header > .navbar .navbar-nav {
+    margin-right: 2rem !important;
+    width: 100%;
+}
+
+.header > .navbar .navbar-nav > .input-group {
+    height: 90%;
+    width: 80%;
+    align-items: center;
+    padding-top: 2.2rem;
+}
+
+.header > .navbar .navbar-nav > .header__appLink {
+    display: flex;
+    margin-top: 1.7rem;
+}
+
+.header > .navbar .navbar-nav > #home {
+    margin-top: 1.2rem;
+    color: black;
+}
